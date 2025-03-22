@@ -1,6 +1,0 @@
-Capacity    Manufacturer  Speed  
-4294967296  80CE000080CE  2667   
-4294967296  802C0000802C  2400   
-
-
-

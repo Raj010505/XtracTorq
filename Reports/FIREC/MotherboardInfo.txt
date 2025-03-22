@@ -1,5 +1,0 @@
-Manufacturer  Product  SerialNumber              Version  
-Dell Inc.     0CWVV3   /90H91P2/CNWSC000B91JCH/  A04      
-
-
-
