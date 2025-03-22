@@ -1,0 +1,203 @@
+
+Microsoft (R) Windows (R) Operating System Group Policy Result tool v2.0
+c Microsoft Corporation. All rights reserved.
+
+Created on ?22-?03-?2025 at 20:37:05
+
+
+RSOP data for RAJ\hiihi on RAJ : Logging Mode
+----------------------------------------------
+
+OS Configuration:            Standalone Workstation
+OS Version:                  10.0.19045
+Site Name:                   N/A
+Roaming Profile:             N/A
+Local Profile:               C:\Users\hiihi
+Connected over a slow link?: N/A
+
+
+COMPUTER SETTINGS
+------------------
+    
+    Last time Group Policy was applied: 22-03-2025 at 17:41:21
+    Group Policy was applied from:      N/A
+    Group Policy slow link threshold:   500 kbps
+    Domain Name:                        
+    Domain Type:                        WindowsNT 4
+
+    Applied Group Policy Objects
+    -----------------------------
+        N/A
+
+    The computer is a part of the following security groups
+    -------------------------------------------------------
+        N/A
+
+    Resultant Set Of Policies for Computer
+    ---------------------------------------
+
+        Software Installations
+        ----------------------
+            N/A
+
+        Startup Scripts
+        ---------------
+            N/A
+
+        Shutdown Scripts
+        ----------------
+            N/A
+
+        Account Policies
+        ----------------
+            N/A
+
+        Audit Policy
+        ------------
+            N/A
+
+        User Rights
+        -----------
+            N/A
+
+        Security Options
+        ----------------
+            N/A
+
+            N/A
+
+        Event Log Settings
+        ------------------
+            N/A
+
+        Restricted Groups
+        -----------------
+            N/A
+
+        System Services
+        ---------------
+            N/A
+
+        Registry Settings
+        -----------------
+            N/A
+
+        File System Settings
+        --------------------
+            N/A
+
+        Public Key Policies
+        -------------------
+            N/A
+
+        Administrative Templates
+        ------------------------
+            N/A
+
+
+USER SETTINGS
+--------------
+    
+    Last time Group Policy was applied: 22-03-2025 at 17:43:12
+    Group Policy was applied from:      N/A
+    Group Policy slow link threshold:   500 kbps
+    Domain Name:                        RAJ
+    Domain Type:                        <Local Computer>
+    
+    Applied Group Policy Objects
+    -----------------------------
+        N/A
+
+    The user is a part of the following security groups
+    ---------------------------------------------------
+        High Mandatory Level
+        Everyone
+        Local account and member of Administrators group
+        BUILTIN\Administrators
+        BUILTIN\Users
+        Performance Log Users
+        NT AUTHORITY\INTERACTIVE
+        CONSOLE LOGON
+        NT AUTHORITY\Authenticated Users
+        This Organization
+        hiihii730@yahoo.com
+        Local account
+        LOCAL
+        Cloud Account Authentication
+        
+    The user has the following security privileges
+    ----------------------------------------------
+
+        Bypass traverse checking
+        Manage auditing and security log
+        Back up files and directories
+        Restore files and directories
+        Change the system time
+        Shut down the system
+        Force shutdown from a remote system
+        Take ownership of files or other objects
+        Debug programs
+        Modify firmware environment values
+        Profile system performance
+        Profile single process
+        Increase scheduling priority
+        Load and unload device drivers
+        Create a pagefile
+        Adjust memory quotas for a process
+        Remove computer from docking station
+        Perform volume maintenance tasks
+        Impersonate a client after authentication
+        Create global objects
+        Change the time zone
+        Create symbolic links
+        Obtain an impersonation token for another user in the same session
+        Increase a process working set
+
+    Resultant Set Of Policies for User
+    -----------------------------------
+
+        Software Installations
+        ----------------------
+            N/A
+
+        Logon Scripts
+        -------------
+            N/A
+
+        Logoff Scripts
+        --------------
+            N/A
+
+        Public Key Policies
+        -------------------
+            N/A
+
+        Administrative Templates
+        ------------------------
+            N/A
+
+        Folder Redirection
+        ------------------
+            N/A
+
+        Internet Explorer Browser User Interface
+        ----------------------------------------
+            N/A
+
+        Internet Explorer Connection
+        ----------------------------
+            N/A
+
+        Internet Explorer URLs
+        ----------------------
+            N/A
+
+        Internet Explorer Security
+        --------------------------
+            N/A
+
+        Internet Explorer Programs
+        --------------------------
+            N/A
+
+

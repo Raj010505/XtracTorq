@@ -1,0 +1,635 @@
+
+Windows IP Configuration
+
+    
+    ----------------------------------------
+    Record data for type CNAME could not be displayed.
+
+
+    array615.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : array615.prod.do.dsp.mp.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1819
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.69.74.84
+
+
+    antipiracy.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : antipiracy.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    antipiracy.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    activation.cyberlink.com
+    ----------------------------------------
+    Record Name . . . . . : activation.cyberlink.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    activation.cyberlink.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    analytics.wondershare.cc
+    ----------------------------------------
+    Record Name . . . . . : analytics.wondershare.cc
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    analytics.wondershare.cc
+    ----------------------------------------
+    No records of type AAAA
+
+
+    play.google.com
+    ----------------------------------------
+    Record Name . . . . . : play.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 35
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.174.238
+
+
+    play.google.com
+    ----------------------------------------
+    Record Name . . . . . : play.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 193
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:830::200e
+
+
+    wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    people-pa.clients6.google.com
+    ----------------------------------------
+    Record Name . . . . . : people-pa.clients6.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 92
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.199.138
+
+
+    people-pa.clients6.google.com
+    ----------------------------------------
+    Record Name . . . . . : people-pa.clients6.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 191
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:82d::200a
+
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : platform.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : activation.cyberlink.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : pc-api.wondershare.cc
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : analytics.wondershare.cc
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : cloud-api.wondershare.cc
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : sparrow.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : wae.wondershare.cc
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : api.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : antipiracy.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : mail.insidews.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : accounts.wondershare.com
+
+
+    media.fbom3-1.fna.whatsapp.net
+    ----------------------------------------
+    Record Name . . . . . : media.fbom3-1.fna.whatsapp.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 115
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2405:200:1602:2885:face:b00c:3333:7020
+
+
+    mail.insidews.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : mail.insidews.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    mail.insidews.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pc-api.wondershare.cc
+    ----------------------------------------
+    Record Name . . . . . : pc-api.wondershare.cc
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    pc-api.wondershare.cc
+    ----------------------------------------
+    No records of type AAAA
+
+
+    accounts.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : accounts.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    accounts.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    chatgpt.com
+    ----------------------------------------
+    Record Name . . . . . : chatgpt.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 134
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.18.32.47
+
+
+    Record Name . . . . . : chatgpt.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 134
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.64.155.209
+
+
+    array613.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : array613.prod.do.dsp.mp.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 157
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.69.75.33
+
+
+    relay-449de74e.net.anydesk.com
+    ----------------------------------------
+    Record Name . . . . . : relay-449de74e.net.anydesk.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45318
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 203.23.178.53
+
+
+    sentry.io
+    ----------------------------------------
+    Record Name . . . . . : sentry.io
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 197
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.186.247.156
+
+
+    wae.wondershare.cc
+    ----------------------------------------
+    Record Name . . . . . : wae.wondershare.cc
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    wae.wondershare.cc
+    ----------------------------------------
+    No records of type AAAA
+
+
+    sparrow.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : sparrow.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    sparrow.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    browser.sentry-cdn.com
+    ----------------------------------------
+    Record Name . . . . . : browser.sentry-cdn.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 43759
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.66.217
+
+
+    Record Name . . . . . : browser.sentry-cdn.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 43759
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.2.217
+
+
+    Record Name . . . . . : browser.sentry-cdn.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 43759
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.130.217
+
+
+    Record Name . . . . . : browser.sentry-cdn.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 43759
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.194.217
+
+
+    browser.sentry-cdn.com
+    ----------------------------------------
+    Record Name . . . . . : browser.sentry-cdn.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 41004
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a04:4e42::729
+
+
+    Record Name . . . . . : browser.sentry-cdn.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 41004
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a04:4e42:200::729
+
+
+    Record Name . . . . . : browser.sentry-cdn.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 41004
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a04:4e42:600::729
+
+
+    Record Name . . . . . : browser.sentry-cdn.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 41004
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a04:4e42:400::729
+
+
+    clients6.google.com
+    ----------------------------------------
+    Record Name . . . . . : clients6.google.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 36
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : clients.l.google.com
+
+
+    Record Name . . . . . : clients.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 36
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.192.110
+
+
+    clients6.google.com
+    ----------------------------------------
+    Record Name . . . . . : clients6.google.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : clients.l.google.com
+
+
+    Record Name . . . . . : clients.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:803::200e
+
+
+    a.nel.cloudflare.com
+    ----------------------------------------
+    Record Name . . . . . : a.nel.cloudflare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41943
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.190.80.1
+
+
+    a.nel.cloudflare.com
+    ----------------------------------------
+    Record Name . . . . . : a.nel.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 43773
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:1901:0:47fc::
+
+
+    drivefrontend-pa.clients6.google.com
+    ----------------------------------------
+    Record Name . . . . . : drivefrontend-pa.clients6.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 6
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.182.234
+
+
+    drivefrontend-pa.clients6.google.com
+    ----------------------------------------
+    Record Name . . . . . : drivefrontend-pa.clients6.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:801::200a
+
+
+    media-bom2-4.cdn.whatsapp.net
+    ----------------------------------------
+    Record Name . . . . . : media-bom2-4.cdn.whatsapp.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 120
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a03:2880:f358:120:face:b00c:0:167
+
+
+    drive.google.com
+    ----------------------------------------
+    Record Name . . . . . : drive.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 59
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.192.46
+
+
+    drive.google.com
+    ----------------------------------------
+    Record Name . . . . . : drive.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 133
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:828::200e
+
+
+    1.16.30.172.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.16.30.172.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : Raj.mshome.net
+
+
+    tunnel.googlezip.net
+    ----------------------------------------
+    Record Name . . . . . : tunnel.googlezip.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 40795
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.239.34.157
+
+
+    tunnel.googlezip.net
+    ----------------------------------------
+    Record Name . . . . . : tunnel.googlezip.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 43381
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2001:4860:4802:34::9d
+
+
+    platform.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : platform.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    platform.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    api.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : api.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    api.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    cloud-api.wondershare.cc
+    ----------------------------------------
+    Record Name . . . . . : cloud-api.wondershare.cc
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    cloud-api.wondershare.cc
+    ----------------------------------------
+    No records of type AAAA
+
+
+    array609.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : array609.prod.do.dsp.mp.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2921
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.169.159.67
+
+
+    docs.google.com
+    ----------------------------------------
+    Record Name . . . . . : docs.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 86
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:815::200e
+
+
+    raj.mshome.net
+    ----------------------------------------
+    Record Name . . . . . : Raj.mshome.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 594249
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.30.16.1
+
+
+    raj.mshome.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+
+

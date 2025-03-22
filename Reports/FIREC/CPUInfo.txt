@@ -1,0 +1,5 @@
+CurrentClockSpeed  MaxClockSpeed  Name                                      NumberOfCores  NumberOfLogicalProcessors  
+1600               1800           Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz  4              8                          
+
+
+

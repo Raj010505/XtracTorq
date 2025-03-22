@@ -1,0 +1,84 @@
+
+Host Name:                 RAJ
+OS Name:                   Microsoft Windows 10 Enterprise N
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          hiihii730@yahoo.com
+Registered Organization:   
+Product ID:                00329-90000-00001-AA592
+Original Install Date:     27-01-2024, 18:06:58
+System Boot Time:          22-03-2025, 17:40:56
+System Manufacturer:       Dell Inc.
+System Model:              Inspiron 3576
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1600 Mhz
+BIOS Version:              Dell Inc. 1.14.0, 19-08-2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     7,943 MB
+Available Physical Memory: 3,168 MB
+Virtual Memory: Max Size:  10,693 MB
+Virtual Memory: Available: 4,595 MB
+Virtual Memory: In Use:    6,098 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\RAJ
+Hotfix(s):                 18 Hotfix(s) Installed.
+                           [01]: KB5050576
+                           [02]: KB5034468
+                           [03]: KB5011048
+                           [04]: KB5015684
+                           [05]: KB5053606
+                           [06]: KB5014032
+                           [07]: KB5032907
+                           [08]: KB5034224
+                           [09]: KB5036447
+                           [10]: KB5037018
+                           [11]: KB5039336
+                           [12]: KB5041579
+                           [13]: KB5043935
+                           [14]: KB5043130
+                           [15]: KB5046823
+                           [16]: KB5050388
+                           [17]: KB5050111
+                           [18]: KB5052916
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Qualcomm QCA9377 802.11ac Wireless Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.29.1
+                                 IP address(es)
+                                 [01]: 192.168.29.181
+                                 [02]: fe80::3597:881d:b3e:8018
+                                 [03]: 2405:201:1c:f95c:ede5:d81c:7fd8:c41a
+                                 [04]: 2405:201:1c:f95c:be3:53bb:da39:942a
+                           [02]: Realtek PCIe FE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.181.254
+                                 IP address(es)
+                                 [01]: 192.168.181.1
+                                 [02]: fe80::22d6:25aa:677c:61fb
+                           [05]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.186.254
+                                 IP address(es)
+                                 [01]: 192.168.186.1
+                                 [02]: fe80::b295:dd52:8:cfaa
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
+

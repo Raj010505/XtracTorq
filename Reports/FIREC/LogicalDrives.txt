@@ -1,0 +1,6 @@
+Caption  Description       FileSystem  Size          
+C:       Local Fixed Disk  NTFS        370430652416  
+D:       Local Fixed Disk  NTFS        629144547328  
+
+
+
